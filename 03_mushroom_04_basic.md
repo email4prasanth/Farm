@@ -20,3 +20,12 @@
 - IIHR (ICAR-IIHR, Bengaluru), the minimum purchase quantity for spawn (mushroom seed) is 1 kg, and the maximum is 250 kg per order.
 - Spawn requires a 30-day advance booking; same-day pickup is not possible.
 - IIHR does not provide shipping services; you must collect in person at the Mushroom Lab with our own bags.
+
+
+## Dark Room
+- Dimension 18 * 60 * 48 (w*l*h), neem wood 
+- Length of each Rack, number of racks in the room, height of each rack is important, number of beds in each each rack.
+
+## Light Room
+- Dimension 18 * 60 * 48 (w*l*h),  neem wood 
+- Length of each Rack, number of racks in the room, height of each rack is important, number of beds in each each rack.

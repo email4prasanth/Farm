@@ -13,7 +13,8 @@ The following training activities are recommended to gain practical knowledge be
 7. **Disease and Contamination Control:** Understand common fungal infections, pest problems, preventive measures and batch recovery methods.
 8. **Post-Harvest Management:** Learn cleaning, grading, packaging, refrigeration and shelf-life management.
 9. **Marketing Exposure:** Interact with farmers, wholesalers, supermarkets, hotels and direct sellers to understand market demand and pricing.
-10. **Small-Scale Pilot Production:** Conduct trial cultivation before investing in commercial infrastructure.
+10. Transactions
+11. **Small-Scale Pilot Production:** Conduct trial cultivation before investing in commercial infrastructure.
 
 ## 2. Additional Areas to Learn
 
