@@ -6,7 +6,7 @@ The following training activities are recommended to gain practical knowledge be
 
 1. **Local Farm Training:** Attend training sessions and gain hands-on experience from nearby mushroom farms to understand day-to-day operations.
 2. **Seasonal Practical Experience:** Understand mushroom cultivation under different climatic conditions, particularly summer, winter and rainy seasons.
-3. **Professional Technical Training:** Attend paid mushroom cultivation training programmes conducted by ICAR-IIHR (Indian Institute of Horticultural Research), Bengaluru.
+3. **Professional Technical Training:** Attend paid mushroom cultivation training programmes conducted by ICAR-IIHR (Indian Institute of Horticultural Research), Bengaluru and DMR.
 4. **Farm Visits Across South India:** Visit established mushroom farms in Tamil Nadu, Karnataka, Kerala and Andhra Pradesh to understand different cultivation methods and business models.
 5. **Hands-on Cultivation:** Practise spawn handling, substrate preparation, sterilisation, bag filling, incubation, harvesting and packaging.
 6. **Climate Management:** Learn temperature, humidity, ventilation and moisture management techniques.
