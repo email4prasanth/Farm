@@ -1,22 +1,27 @@
 # Grass Selection Guidelines
 
 ## 1. Crop Duration
+
 - Select 6-month crops (Muthaka Biyyam) and avoid 3-month crops.
 - The 6-month crop starts in June/July and ends in Nov/Dec. Due to the rainy season, chemical doses are low and the grass is hard.
 - In contrast, 3-month crops start in March and contain chemicals.
 
 ## 2. Cutting Method
+
 - Grass should be cut by hand, as hand cutting retains more of the stem base compared to machine cutting.
 
 ## 3. Quality Requirements
+
 - The grass should contain more cellulose and lignin content.
 - Sucrose (Dairy Support) Swarna is an option.
 - Grass with cellulose and lignin has a shelf life of 12 to 14 months from harvest.
 
 ## 4. Storage & Usage
+
 - In mounted (stacked) grass, the bottom layer should not be used for farming.
 
 ## 5. Cost
+
 - Cost per acre is approximately ₹18,000.
 
 ## Supported Grass Varieties (6-Month Crop)
@@ -54,49 +59,76 @@
 - Best option: hand cutting. Approach the farmer and inform them that we will bear the cost. Farmers are hesitant to do hand cutting in Nov/Dec, so proactive communication is essential.
 
 ## Cutting Machine
-- Should select only a machine with wheel only preferably old verision.
-- Contats at Vijayawada (Sunil Engineers) - 80000 and Vizag (Kubera Industry) - 55000.
-- 1HP -16000, 2HP - 26000, 3HP - 55000 (doubel wheel )
-- Small size machines are not durable and getting trouble in 3 months.
-- For wheel the maintaince is almost zero but regular checking is required for wheel sharpness, Belt and apply gresee.
-- With change in bolt the piece of grass can get .5, 1, 2 inches, maunal will be given and self assemble.
 
-## Grass posturisaition
-- Grass posturisation is in 3 methods
-1. Chemical
-2. Steaming
-3. Boiling
+Select only a wheel-based machine, preferably an older version.
 
-- Steaming and boiling are the correct process but the production cost and labour work is higher
-- Chemical process is budjet friendly, but 5% to 10% of contamination is appear like beds and mouldes will appear.
-- Chemical like Pharmaldehyde and Corbandizum 
-- For 1kg spawn - 7 to 8 kg of dry grass is required, for 1kg or dry grass we can get 900-950 grams of mushroom.
+### Contacts
 
-## Cleaning
-- Take 200lts of blue drum and sterlize it with detol and fill 150 liters of water with normal water, should aviod salt water. (Check teh ph levels **seperate class**)
-- 350ml Pharmalyene (aviod direct contact) use measuring equipment + Cardondysim (15g) use weighing machine, dilute it proper still completely.
-- Fil 21 to 24 kgs of dry grass of grass should dip and make sure the water should appear on the top it means need to press with legs, put some stones over it, cover the top with cloth not lid and keep it aside for 12 to 24 hours.
-- The timing for soaking is 12 to 24 hours is depends on the age of the grass (**seperate class**).
-- Dry the grass under the sun if sunny or use drier, if the grass is too wet throw it for trai version, if it is dried completely beds wont give mushrooms.
-- Bagging should be done before the 5 hours to aviod contamination.
-- The time between bagging and Dark room may be allowed upto 10 hours, but holes should be done at the last hour.
+- Vijayawada (Sunil Engineers) – ₹80,000
+- Vizag (Kubera Industry) – ₹55,000
 
-## Time Excemption and Crticality
-### Time Excemption
-- Soaking period 12 to 24 hours
-- wet grass should bag immediately
-- Bagging to darkroom period 10 hours
+### Power Options
 
-## Time Criticality
-- Other stages timing is very important for formation.
+- 1 HP – ₹16,000
+- 2 HP – ₹26,000
+- 3 HP – ₹55,000 (double wheel)
 
-## 1.5lakh of drier Machine is Reguired
-- when the demand more than 80kg per day which requires 200 bags, which 700 kgs of wet grass is required and the time taken will be 60 to 90 minutes.
-- At that time the challenges are
-    - Open area to dry the grass
-    - Labour to dry and collect the gras
-    - uneven drying of grass
-    - Gross contamination may happen
-    - Nearly 6 to 8 hours of time is required.
-    - On top of it cloudy enviroment
+Small-size machines are not durable and develop problems within 3 months.
+
+For wheel machines, maintenance is almost zero, but regular checks are required for wheel sharpness and belt, and grease should be applied.
+
+By changing the bolt, the cut grass length can be set to 0.5, 1, or 2 inches. A manual will be provided, and the machine is self-assembled.
+
+## Grass Posturisation
+
+Grass posturisation is done by 3 methods:
+
+- Chemical
+- Steaming
+- Boiling
+
+Steaming and boiling are the correct processes, but production cost and labour are higher.
+
+Chemical processing is budget-friendly, but 5% to 10% contamination may appear in the form of beds and moulds.
+
+Chemicals used: Pharmaldehyde and Carbendazim.
+
+For 1 kg spawn, 7 to 8 kg of dry grass is required. For 1 kg of dry grass, 900–950 grams of mushroom can be obtained.
+
+### Cleaning
+
+1. Take a 200-litre blue drum and sterilise it with Dettol. Fill with 150 litres of normal water; avoid salt water. (Check pH levels — separate class.)
+2. Add 350 ml Pharmalyene (avoid direct contact; use measuring equipment) and Carbendazim (15 g) (use a weighing machine). Dilute properly until completely mixed.
+3. Fill with 21 to 24 kg of dry grass and dip it. Make sure the water appears on top — press with legs, place stones over it, cover the top with cloth (not a lid), and set aside for 12 to 24 hours.
+
+   Soaking time of 12 to 24 hours depends on the age of the grass (separate class).
+
+4. Dry the grass under the sun if sunny, or use a drier. If the grass is too wet, discard it for the ternary version. If dried completely, beds will not give mushrooms.
+5. Bagging should be done before 5 hours to avoid contamination.
+6. The time between bagging and the dark room may be allowed up to 10 hours, but holes should be made in the last hour.
+
+## Time Exemption and Criticality
+
+### Time Exemption
+
+- Soaking period: 12 to 24 hours
+- Wet grass should be bagged immediately
+- Bagging to dark room: 10 hours
+
+### Time Criticality
+
+Other stages' timing is very important for formation.
+
+## Drier Machine Requirement
+
+A ₹1.5 lakh drier machine is required when demand exceeds 80 kg per day, which requires 200 bags and 700 kg of wet grass; the time taken will be 60 to 90 minutes.
+
+At that time, the challenges are:
+
+- Open area to dry the grass
+- Labour to dry and collect the grass
+- Uneven drying of grass
+- Gross contamination may happen
+- Nearly 6 to 8 hours of time is required
+- Cloudy environment on top of it
 
