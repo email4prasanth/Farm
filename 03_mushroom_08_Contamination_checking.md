@@ -77,5 +77,4 @@ check for flies/gnats in the room and use traps/screens, because if larvae are p
 
 May occur due to unhygienic conditions, keeping spawn in an unhydrated place, or bag formation issues.
 
-## Casing
-- the casing step that triggers fruiting (a ~1–1.5 cm casing layer after full colonization).
+
