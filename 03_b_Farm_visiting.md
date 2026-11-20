@@ -1,0 +1,5 @@
+- Farms in and around Puttur
+- Farms near Triupathi, chittoor
+- Farms near Anantapur, cuddappa
+- Lakshmi farms in RJY
+- Frams in Telangana, Tamilnadu and kerala.
