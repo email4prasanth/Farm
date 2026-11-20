@@ -18,3 +18,4 @@
 ## Overall Assessment
 
 Mushroom cultivation requires climate control, technical knowledge, hygiene, continuous monitoring and a reliable sales network.
+
