@@ -27,7 +27,7 @@ The SHT31-DIS datasheet lists typical accuracy of ±0.2 °C from 0 to 90 °C and
 - [ ] Both enclosures have been selected and the purchase details are recorded.
 [ESP32 DevKit V1 Tutorial](https://www.youtube.com/watch?v=n19DJIPB1sE)
 
-[Assembly Turtorial-1] (https://microcontrollerslab.com/esp32-sht31-temperature-humidity-sensor-tutorial/)
+[Assembly Turtorial-1](https://microcontrollerslab.com/esp32-sht31-temperature-humidity-sensor-tutorial/)
 
 [Assembly Turtorial-2](https://esp32tutorials.com/sht31-esp32-esp-idf-tutorial/)
 
