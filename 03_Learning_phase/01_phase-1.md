@@ -27,6 +27,10 @@ The SHT31-DIS datasheet lists typical accuracy of ±0.2 °C from 0 to 90 °C and
 - [ ] Both enclosures have been selected and the purchase details are recorded.
 [ESP32 DevKit V1 Tutorial](https://www.youtube.com/watch?v=n19DJIPB1sE)
 
+[Assembly Turtorial-1] (https://microcontrollerslab.com/esp32-sht31-temperature-humidity-sensor-tutorial/)
+
+[Assembly Turtorial-2](https://esp32tutorials.com/sht31-esp32-esp-idf-tutorial/)
+
 ## Module 2 — Assemble and Power Up
 
 Keep USB power disconnected while wiring. Place the ESP32 across the breadboard's center gap so its two pin rows are electrically separate. If the board covers the usable holes, use a wider layout or two breadboards so you can access both sides. Verify the actual silkscreen labels before connecting the four wires.
