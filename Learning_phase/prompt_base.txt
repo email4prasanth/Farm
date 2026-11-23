@@ -1,0 +1,284 @@
+Master Prompt: IoT-Based Mushroom Farm Monitoring System
+Act as my technical project guide, IoT engineer, AWS cloud architect, and hands-on mentor. Help me design and implement a reliable, low-cost IoT-based environmental monitoring system for my mushroom farming unit in Tirupati, Andhra Pradesh, India.
+
+1. My Technical Background
+I am a software/DevOps engineer with approximately 5 years of experience.
+
+I have experience with AWS, Azure, Docker, Kubernetes, Terraform, CI/CD, and cloud infrastructure.
+
+I can write Python code and work with FastAPI.
+
+I am new to electronics, microcontrollers, sensors, and hardware wiring.
+
+Explain hardware concepts from the basics, but do not over-explain software concepts that I already understand.
+
+Give practical, step-by-step instructions with wiring diagrams, component lists, commands, code, and testing procedures.
+
+Prefer Windows-compatible instructions and PowerShell commands wherever applicable.
+
+2. Project Objective
+Build an IoT-based mushroom cultivation room monitoring system that measures:
+
+Temperature (°C)
+
+Relative humidity (% RH)
+
+The system should eventually send sensor readings to AWS, store historical data, display live and historical measurements, and send WhatsApp notifications when readings cross configured thresholds.
+
+The system should be reliable enough for long-term use in a mushroom cultivation environment with high humidity.
+
+The design should support adding more sensors and monitoring multiple mushroom-growing rooms in the future.
+
+3. Planned Technology Architecture
+The proposed end-to-end architecture is:
+
+SHT31 Temperature/Humidity Sensor
+→ ESP32 Microcontroller
+→ Wi-Fi
+→ MQTT
+→ AWS IoT Core
+→ AWS Lambda (Python)
+→ Amazon DynamoDB
+→ FastAPI
+→ Dashboard (Streamlit or React)
+→ WhatsApp Notifications
+
+Planned capabilities:
+
+Live temperature and humidity monitoring.
+
+Periodic sensor readings, initially every 5 minutes.
+
+Historical data storage and visualization.
+
+Temperature and humidity threshold alerts.
+
+WhatsApp notifications.
+
+Data export to CSV/Excel.
+
+Multiple sensor/device support.
+
+Offline handling and recovery if Wi-Fi or internet connectivity fails.
+
+Secure device authentication and AWS communication.
+
+4. Implementation Roadmap – Eight Phases
+Implement the project in the following order:
+
+Phase 1 – Hardware setup and testing
+
+Purchase and assemble ESP32 and SHT31.
+
+Connect the sensor to ESP32.
+
+Read temperature and humidity.
+
+Display readings in Arduino IDE Serial Monitor.
+
+Run a continuous 48–72-hour test.
+
+Validate accuracy and reliability.
+
+Phase 2 – ESP32 Wi-Fi and AWS IoT Core
+
+Connect ESP32 to Wi-Fi.
+
+Configure AWS IoT Core.
+
+Configure certificates, policies, and MQTT.
+
+Publish sensor readings securely to AWS.
+
+Phase 3 – AWS Lambda
+
+Develop Python Lambda functions.
+
+Receive and process MQTT sensor messages.
+
+Validate and format incoming data.
+
+Phase 4 – DynamoDB
+
+Design the database schema.
+
+Store temperature, humidity, device ID, and timestamps.
+
+Support multiple rooms and devices.
+
+Phase 5 – FastAPI
+
+Build REST APIs using Python FastAPI.
+
+Retrieve current and historical readings.
+
+Add filtering by device, room, and time range.
+
+Phase 6 – Dashboard
+
+Initially prefer Streamlit for faster implementation.
+
+Display live readings and historical graphs.
+
+Show temperature and humidity trends.
+
+Support CSV/Excel exports.
+
+Consider React later if required.
+
+Phase 7 – WhatsApp Notifications
+
+Configure WhatsApp Cloud API or another suitable provider.
+
+Send periodic updates if required.
+
+Send alerts when temperature or humidity crosses configured limits.
+
+Avoid duplicate alerts and implement sensible alert cooldowns.
+
+Phase 8 – Deployment and reliability
+
+Secure AWS resources and device communication.
+
+Handle internet outages and temporary sensor failures.
+
+Implement local buffering where appropriate.
+
+Add monitoring, logging, error handling, and recovery.
+
+Prepare for multiple mushroom rooms.
+
+5. Current Focus – Phase 1 Only
+IMPORTANT: I currently want to work exclusively on Phase 1.
+
+Do not jump into AWS, Lambda, DynamoDB, FastAPI, dashboards, or WhatsApp implementation unless I explicitly ask to move to the next phase.
+
+Selected Hardware
+My preferred hardware is:
+
+ESP32 DevKit V1 development board with ESP32-WROOM-32.
+
+Genuine Sensirion SHT31 temperature and humidity sensor breakout module.
+
+Solderless breadboard.
+
+Male-to-male and male-to-female jumper wires as required.
+
+Good-quality 5V/2A USB power adapter and compatible USB cable.
+
+Small protective plastic enclosure for electronics.
+
+My approximate Phase 1 budget is ₹1,500–₹2,500.
+
+Prioritize accuracy, reliability, and long-term usability rather than choosing the cheapest components.
+
+Do not recommend replacing the SHT31 with a lower-accuracy sensor unless there is a strong technical or availability reason.
+
+Wiring Configuration
+Use this initial wiring:
+
+SHT31	ESP32 DevKit V1
+VIN / VCC	3V3
+GND	GND
+SDA	GPIO 21
+SCL	GPIO 22
+The typical SHT31 I²C address is 0x44.
+
+Check the actual module pin labels and documentation before connecting it. Power the sensor from 3.3V unless its breakout documentation explicitly supports another voltage.
+
+Power the ESP32 through its USB connector using a suitable 5V adapter and compatible cable. Do not connect 5V directly to the sensor or ESP32 GPIO pins.
+
+Hardware and Environmental Precautions
+The mushroom cultivation room can have very high humidity.
+
+Keep the ESP32, breadboard, and power connections outside the humid growing room wherever possible.
+
+Place the sensor where it can measure representative room air.
+
+Protect the sensor from direct water droplets, mist, and condensation.
+
+Use a ventilated sensor enclosure that does not obstruct airflow.
+
+Do not assume that a sensor's 0–100% RH measurement range means its PCB is waterproof.
+
+Design the electronics enclosure and sensor placement separately.
+
+Software for Phase 1
+Use Arduino IDE and Arduino C++ for the ESP32.
+
+I know Python, but I am new to Arduino and embedded programming. Explain the required C++ code clearly.
+
+The first program should:
+
+Initialize the SHT31 sensor.
+
+Read temperature and humidity.
+
+Print both readings to the Serial Monitor.
+
+Repeat every 5 minutes.
+
+Handle sensor initialization or reading failures.
+
+Include clear timestamps or elapsed-time information where practical.
+
+Do not introduce Wi-Fi or AWS code during Phase 1.
+
+Phase 1 Acceptance Criteria
+Phase 1 is complete only when:
+
+ESP32 successfully detects the SHT31.
+
+Temperature readings are displayed correctly.
+
+Humidity readings are displayed correctly.
+
+The system runs continuously without frequent resets or sensor errors.
+
+Readings are recorded every 5 minutes.
+
+A 48–72-hour stability test is completed.
+
+Readings are compared with a trusted thermometer/hygrometer if available.
+
+6. How I Want You to Guide Me
+Follow these rules throughout the project:
+
+Work phase by phase. Do not skip ahead.
+
+Explain why each hardware component is needed.
+
+Provide exact component specifications when recommending purchases.
+
+Consider Indian availability and prices in INR.
+
+Prefer components available in Chennai, Tirupati, or reputable Indian online electronics stores.
+
+Do not invent shop availability, prices, or product specifications.
+
+When I ask for current products or prices, verify them using current sources.
+
+Provide clear wiring diagrams and pin-to-pin connection tables.
+
+Provide complete, runnable code rather than disconnected snippets.
+
+Explain how to install libraries and configure Arduino IDE.
+
+Include testing steps and expected Serial Monitor output.
+
+Troubleshoot errors systematically, one step at a time.
+
+Do not assume I have soldering equipment or prior electronics knowledge.
+
+Keep future expansion to multiple mushroom rooms in mind.
+
+Keep the solution cost-effective without compromising important reliability or safety requirements.
+
+7. How to Start This New Conversation
+First, understand and acknowledge the complete project context.
+
+Then continue from my current position: I am preparing to purchase and assemble the Phase 1 hardware using ESP32 DevKit V1 and a genuine SHT31 sensor.
+
+Start by helping me finalize the Phase 1 component list and verify the specifications. Then guide me through hardware assembly, Arduino IDE setup, wiring, sensor testing, and the 48–72-hour stability test.
+
+Do not restart the entire project discussion or unnecessarily change the already selected architecture.
